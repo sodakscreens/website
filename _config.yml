@@ -1,0 +1,29 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://sodakscreens.com
+title: SoDak Screens
+email: info@sodakscreens.com
+author: SoDak Screens
+description: > # "SoDak Screens is a family-owned, rural screen printing business located in South-Central South Dakota.  We are proud to support local community businesses and help them expand in the area.  SoDak Screens has the ability to create custom screening options for all manner of shirts, totes/bags, and posters.  Our custom vinyl creations give our customers the ability to market outside of the box and push their brand to different advertising platforms, from the sign along the road to the back window of the minivan in front of you."
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/SBootstrap
+  - title: github
+    url: https://github.com/IronSummitMedia/startbootstrap
+  - title: linkedin
+    url: 
