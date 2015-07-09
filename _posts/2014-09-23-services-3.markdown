@@ -2,7 +2,11 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Graphic Design
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Do you have an idea for a logo?  Looking for a layout for a brochure or pamplet?  Do you have an idea for a website design?
+ 
+We can help you design a graphics for your organization or business.
+ 
+Logo Development – Print and Electronic Graphic Design – Website Layouts all available.

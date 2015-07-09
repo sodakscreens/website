@@ -2,7 +2,14 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Screen Printing
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+
+SoDak Screens specializes in custom screen printing options for your business, organization or fundraiser.
+ 
+We specialize in Apparel, Totes, Bags, and Posters. It does not matter the size of the job, we are excited to work with you to design an amazing product!
+ 
+Don’t live in the area?  No problem, we can ship anywhere in a timely fashion to help meet your deadline!
+
+
